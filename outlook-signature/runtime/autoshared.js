@@ -61,8 +61,9 @@ function checkSignature(eventObj) {
                                     <img src="${base64Image}" width="600" height="227" style="width: 600px; height: 227px; max-width: 781px;"/>
                                 </a>
                                 <br>
+                                <br>
                                 <i style="color:#999">
-                                Este correo electrónico es confidencial.
+                                Este correo electrónico y los archivos adjuntos son confidenciales y están dirigidos exclusivamente a su destinatario. Si usted no es el destinatario indicado, se le notifica que la lectura, uso, divulgación y/o copia sin autorización está estrictamente prohibida. En tal caso, por favor elimine este mensaje y notifíquelo inmediatamente al remitente.
                                 </i>
                             </div>
                             `;
