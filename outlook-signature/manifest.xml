@@ -29,7 +29,7 @@
         <Form xsi:type="ItemRead">
             <DesktopSettings>
                 <SourceLocation
-                    DefaultValue="https://legiewia.github.io/outlook-signature/taskpane.html" />
+                    DefaultValue="https://legiewia.github.io/outlook-signature/taskpane/HTML/taskpane.html" />
                 <RequestedHeight>250</RequestedHeight>
             </DesktopSettings>
         </Form>
@@ -131,11 +131,11 @@
                 </bt:Images>
                 <bt:Urls>
                     <bt:Url id="residUrl0"
-                        DefaultValue="https://legiewia.github.io/outlook-signature/taskpane.html"></bt:Url>
+                        DefaultValue="https://legiewia.github.io/outlook-signature/taskpane/HTML/taskpane.html"></bt:Url>
                     <bt:Url id="Autorun"
-                        DefaultValue="https://legiewia.github.io/outlook-signature/autorunweb.html"></bt:Url>
+                        DefaultValue="https://legiewia.github.io/outlook-signature/runtime/autorun.html"></bt:Url>
                     <bt:Url id="runtimeJs"
-                        DefaultValue="https://legiewia.github.io/outlook-signature/autorunshared.js"></bt:Url>
+                        DefaultValue="https://legiewia.github.io/outlook-signature/runtime/autoshared.js"></bt:Url>
                 </bt:Urls>
                 <bt:ShortStrings>
                     <bt:String id="residGL0" DefaultValue="Signature Injector"></bt:String>
