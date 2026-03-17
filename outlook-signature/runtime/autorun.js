@@ -52,7 +52,7 @@ function insert_auto_signature(eventObj) {
                 let username = user_signature.email.split("@")[0];
 
                 // 2️⃣ build image path
-                let imagePath = `assets/signatures/${username}.png`;
+                let imagePath = `../assets/signatures/${username}.png`;
 
                 // 3️⃣ fetch image and convert to base64
                 fetch(imagePath)

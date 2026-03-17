@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
     xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides" xsi:type="MailApp">
-    <Id>{8946ca46-0fbd-464f-a083-43e7a7d659e4}</Id>
-    <Version>1.0.0.2</Version>
+    <Id>{8946f346-0fbd-464f-b083-43e7a7d659e4}</Id>
+    <Version>1.0.0.4</Version>
     <ProviderName>Seulgi</ProviderName>
     <DefaultLocale>en-US</DefaultLocale>
     <DisplayName DefaultValue="Seulgi Injector" />
