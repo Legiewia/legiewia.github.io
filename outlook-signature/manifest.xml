@@ -4,11 +4,11 @@
     xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
     xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides" xsi:type="MailApp">
     <Id>{8946ca46-0fbd-464f-a083-43e7a7d659e4}</Id>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.0.2</Version>
     <ProviderName>Seulgi</ProviderName>
     <DefaultLocale>en-US</DefaultLocale>
-    <DisplayName DefaultValue="Office Add-ins Signature Injector" />
-    <Description DefaultValue="Office Add-ins Signature Injector" />
+    <DisplayName DefaultValue="Seulgi Injector" />
+    <Description DefaultValue="Seulgi Injector" />
     <IconUrl DefaultValue="https://legiewia.github.io/outlook-signature/assets/logo.png" />
     <HighResolutionIconUrl
         DefaultValue="https://legiewia.github.io/outlook-signature/assets/logo.png" />
