@@ -7,8 +7,8 @@
     <Version>1.0.0.4</Version>
     <ProviderName>Seulgi</ProviderName>
     <DefaultLocale>en-US</DefaultLocale>
-    <DisplayName DefaultValue="Seulgi Injector" />
-    <Description DefaultValue="Seulgi Injector" />
+    <DisplayName DefaultValue="Signature Manager" />
+    <Description DefaultValue="Signature Manager" />
     <IconUrl DefaultValue="https://legiewia.github.io/outlook-signature/assets/logo.png" />
     <HighResolutionIconUrl
         DefaultValue="https://legiewia.github.io/outlook-signature/assets/logo.png" />
